@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ariel Higuera
-- 👀 I’m an apiring software developer! Currently a student at Ada Developers Academy in Seattle, WA.
-- 🌱 I’m currently learning python along with some web development skills.
-- 💞️ I’m looking to collaborate on beginner python projects.
+- 👀 I’m an apiring software developer! I am currently a student at Ada Developers Academy in Seattle, WA and an intern at Microsoft.
+- 🌱 I’m primarily coding in python, and learning C#.
+- 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me: purpl3m00ns@gmail.com
 
 <!---
